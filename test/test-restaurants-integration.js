@@ -2,6 +2,7 @@
 
 const chai = require('chai');
 const chaiHttp = require('chai-http');
+//faker creates random first name for testing
 const faker = require('faker');
 const mongoose = require('mongoose');
 
